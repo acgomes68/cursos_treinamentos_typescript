@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "O que é TypeScript?/introTypeScript"
+		},
+		{
+			"path": "Curso de TypeScript/primeiroProjeto"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "primeiroProjeto"
+	}
+}

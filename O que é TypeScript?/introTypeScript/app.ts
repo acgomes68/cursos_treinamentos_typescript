@@ -1,0 +1,19 @@
+class Produto {
+    codigo: string;
+    descricao: string;
+    preco: number;
+
+    constructor(_codigo: string, _descricao: string, _preco: number) {
+        this.codigo = _codigo;
+        this.descricao = _descricao;
+        this.preco = _preco;
+    }
+
+    getDados() {
+        return 'Produto: ' +this.codigo + ': ' + this.descricao + ' - R$ ' + this.preco;
+    }
+}
+
+var p = new Produto('001', 'Produto Teste', 29.9);
+var dados = p.getDados();
+alert(dados);

@@ -1,0 +1,6 @@
+c:\users\euclides\documents\visual studio 2013\Projects\MyFirstProjectWithTypeScript\MyFirstProjectWithTypeScript\bin\MyFirstProjectWithTypeScript.dll.config
+c:\users\euclides\documents\visual studio 2013\Projects\MyFirstProjectWithTypeScript\MyFirstProjectWithTypeScript\bin\MyFirstProjectWithTypeScript.dll
+c:\users\euclides\documents\visual studio 2013\Projects\MyFirstProjectWithTypeScript\MyFirstProjectWithTypeScript\bin\MyFirstProjectWithTypeScript.pdb
+c:\users\euclides\documents\visual studio 2013\Projects\MyFirstProjectWithTypeScript\MyFirstProjectWithTypeScript\obj\Debug\MyFirstProjectWithTypeScript.csprojResolveAssemblyReference.cache
+c:\users\euclides\documents\visual studio 2013\Projects\MyFirstProjectWithTypeScript\MyFirstProjectWithTypeScript\obj\Debug\MyFirstProjectWithTypeScript.dll
+c:\users\euclides\documents\visual studio 2013\Projects\MyFirstProjectWithTypeScript\MyFirstProjectWithTypeScript\obj\Debug\MyFirstProjectWithTypeScript.pdb

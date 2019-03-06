@@ -1,0 +1,12 @@
+body {
+    font-family: 'Segoe UI', sans-serif;
+}
+
+div {
+    font-size: large;
+    font-style: italic;
+}
+
+p {
+    font-weight: bold;
+}
